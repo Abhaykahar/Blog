@@ -1,4 +1,4 @@
-<!-- Personal Blog App
+Personal Blog App
 Description
 This Personal Blog App is a simple and user-friendly blogging platform built using React.js and Bootstrap. It allows users to create, edit, delete, and view blog posts with images. The app demonstrates full CRUD functionality (Create, Read, Update, Delete) for posts, and provides a responsive and modern UI with a clean layout. It uses localStorage to persist data between sessions, making it a perfect lightweight blogging app for personal use.
 
@@ -25,4 +25,4 @@ Usage
 On the home page, you will see a list of all blog posts. If no posts exist, you’ll be prompted to create one.
 To create a new post, click the "Create New Post" button in the header, fill in the title, content, and optionally upload an image.
 You can view the details of a post by clicking the "View" button on any post card.
-Edit or delete a post using the "Edit" and "Delete" buttons respectively. -->
+Edit or delete a post using the "Edit" and "Delete" buttons respectively.
